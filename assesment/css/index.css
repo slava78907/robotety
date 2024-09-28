@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header{
+    color: #fff;
+    width: 1920px;
+    height: 1080px;
+    background: #141024;
+    
+}
+
+.header__conteiner{
+    background: #141024;
+    height: 100px;
+
+}
+
+.header__section{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.header__nav{
+    margin-left: 470px;
+}
+
+.header__nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 40px;
+    font-weight: 400;
+}
+
+.header__button{
+    color: #fff;
+    background: #141024;
+    border: none;
+    margin-left: 400px;
+    font-size: 30px;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu__conteiner{
+   margin-left: 380px;
+}
+
+
+
+.menu__span{
+   font-size: 20px;
+}
+
+.menu__login{
+    font-size: 60px;
+    width: 516px;
+    margin-top: 266px;
+}
+
+.menu__text{
+    width: 476px;
+    margin-top: 20px;
+}
+
+.menu__button{
+    border: none;
+    background: #D52027;
+    padding: 25px 54px;
+    color: #fff;
+    margin-top: 50px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.menu__pik{
+   width: 783px;
+   margin-top: 62px;
+   margin-left: 29px;
+}
+
+.main__text{
+    font-size: 30px;
+    width: 726px;
+    font-weight: 400;
+    margin-top: 120px;
+    margin-left: 380px;
+}
+
+.main__section{
+    display: flex;
+    width: 330px;
+    margin-left: 340px;
+    margin-top: 60px;
+}
+
+.main__num{
+    width: 100%;
+    margin: 40px;
+    
+}
+
+.main__logo-bt{
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.main__logo-bt{
+    width: 250px;
+    color: #D52027;
+    font-weight: 600;
+}
+
+.main__logo-btn{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer{
+    background: #F9F9F9;
+    width: 1920px;
+    height: 485px;
+    margin-top: 120px;
+}
+
+
+
+.footer__logotip{
+    margin-left: 381px;
+}
+
+
+.footer__logotip-title{
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 381px;
+    margin-top: 100px;
+}
+
+.footer__conteiner{
+    display: flex;
+    margin-left: 351px;
+}
+
+.footer__text{
+  margin-left: 40px;
+}
+
+.footer__text-title{
+  margin-top: 60px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.footer__text-text{
+    width: 340px;
+    margin-top: 20px;
+    font-size: 18px;
+}

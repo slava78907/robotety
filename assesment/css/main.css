@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+
+}
+
+.container{
+    width: 500px;
+    height: 400px;
+    background: #40bbe1;
+}
+
+.top-heder{
+
+}
+
+.input-field{
+
+}
+
+.input{
+    padding: 20px;
+    width: 400px;
+}
+
+.submit{
+
+}
